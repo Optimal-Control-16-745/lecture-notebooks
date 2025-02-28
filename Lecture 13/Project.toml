@@ -1,0 +1,4 @@
+[deps]
+MathOptInterface = "b8f27783-ece8-5eb3-8dc8-9495eed66fee"
+RobotDynamics = "38ceca67-d8d3-44e8-9852-78a5596522e1"
+RobotZoo = "74be38bb-dcc2-4b9e-baf3-d6373cd95f10"
