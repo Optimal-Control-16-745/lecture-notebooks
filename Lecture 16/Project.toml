@@ -1,0 +1,3 @@
+[deps]
+RobotZoo = "74be38bb-dcc2-4b9e-baf3-d6373cd95f10"
+TrajOptPlots = "7770976a-8dee-4930-bf39-a1782fd21ce6"
